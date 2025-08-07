@@ -1,2 +1,2 @@
 # useful-scripts
-Some useful scripts that are helpful for research
+I'd like to list some useful scripts that are helpful for my research.
