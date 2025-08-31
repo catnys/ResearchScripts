@@ -1,0 +1,15 @@
+Data Handling & Analysis
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.3 # Required for reading/writing Excel .xlsx files
+
+Interactive Development
+jupyterlab==4.2.3 # For running notebooks and interactive analysis
+
+Data Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+
+Natural Language Processing (for text analysis of abstracts/titles)
+nltk==3.8.1
+scikit-learn==1.5.0 # For text vectorization (TF-IDF) and other ML tasks
